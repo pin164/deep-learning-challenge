@@ -35,6 +35,10 @@ Original model: AlphabetSoupCharity.hs<br>
 **dependencies** The python code relies on the data file <br>
 url = https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/charity_data.csv <br>
 
+**Additional Files**<br>
+>  1 Starter_code.ipynb - original code to start the neural network model<br>
+>  2 Report deep-learning-challenge.docx - report on the performance of the deep learning model you created for Alphabet Soup.<br>
+>  3 Instructions  deep-learning-challenge.doc - instructions for the challenge <br>
 
 Additional Comments :  This code is my original work with help from<br>
 I have NOT worked with a peer on an assignment,<br>
